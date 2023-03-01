@@ -1,4 +1,6 @@
-### Hi there 👋
+# こんにちは 👋
+
+今は日本語とRustとPythonを学んでいる。
 
 <!--
 **6f7665/6f7665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
